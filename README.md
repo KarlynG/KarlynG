@@ -32,8 +32,8 @@
 <br />
 
 ### Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network&theme=dark)](https://github.com/KarlynG/Social_network)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Bank_Project&theme=dark)](https://github.com/KarlynG/Bank_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network&theme=radical )](https://github.com/KarlynG/Social_network)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Bank_Project&theme=radical )](https://github.com/KarlynG/Bank_Project)
 
 ---
 
