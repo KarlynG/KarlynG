@@ -14,14 +14,6 @@
 - ⚡ Hobbies: Play Piano, Videogames and Read
 
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
-
-<br />
-
 ### What I'm Learning / What have I learned:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
@@ -32,9 +24,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png" />
 
+---
 
 <br />
 <br />
+
+### Progress
 
 ### Latest Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network&theme=radical )](https://github.com/KarlynG/Social_network)
