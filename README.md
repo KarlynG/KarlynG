@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Hello, my name is Karlyn and this is my profile - website in development 👋<br /></h2>
+<h2 align="center">Hello, my name is Karlyn and this is my profile - website in development 👋</h2>
 </p>
 
 <p align="center"> karlyn251@hotmail.com</p>
