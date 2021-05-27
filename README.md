@@ -1,4 +1,4 @@
-<p align="center"> Hello, my name is Karlyn and this is my profile - website in development 👋</p>
+<p align="center"> <h2>Hello, my name is Karlyn and this is my profile - website in development 👋 </h2></p>
 
 ### I'm currently studying, learning new technologies and working on different projects
 ---
