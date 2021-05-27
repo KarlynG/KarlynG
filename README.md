@@ -1,6 +1,6 @@
 ### Hello, my name is Karlyn and this is my profile - website in development 👋
 
-## I'm currently studying, learning technologies and working on projects.
+## I'm currently studying, learning new technologies and working on different projects.
 
 - 🌱 Currently working in something different
 - 👯 Trying to learn new technologies everyday
