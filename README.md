@@ -1,4 +1,4 @@
-### Hello, my name is Karlyn and this is my profile - website in development 
+### Hello, my name is Karlyn and this is my profile - website in development 👋
 
 ## I'm currently studying, learning technologies and working on projects.
 
