@@ -1,5 +1,9 @@
 ### Hello, my name is Karlyn and this is my profile - website in development 👋
+<<<<<<< HEAD
+<br />
+=======
 ---
+>>>>>>> 8ae6c7348585b268d264e31f61336509ac5ab0f7
 
 ### I'm currently studying, learning new technologies and working on different projects
 ---
@@ -20,7 +24,9 @@
 
 ### What I'm Learning / What have I learned:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
 
 
 <br />
