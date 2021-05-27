@@ -1,6 +1,10 @@
-<p align="center"> <h2 align="center">Hello, my name is Karlyn and this is my profile - website in development 👋</h2></p>
+<p align="center">
+<h2 align="center">Hello, my name is Karlyn and this is my profile - website in development 👋</h2>
 <br />
+</p>
+
 <p align="center"> karlyn251@hotmail.com</p>
+<br />
 
 ### I'm currently studying, learning new technologies and working on different projects
 ---
