@@ -1,4 +1,6 @@
 <p align="center"> <h2 align="center">Hello, my name is Karlyn and this is my profile - website in development 👋</h2></p>
+<br />
+<p align="center"> karlyn251@hotmail.com</p>
 
 ### I'm currently studying, learning new technologies and working on different projects
 ---
