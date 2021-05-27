@@ -28,7 +28,7 @@
 <br />
 
 ### Progress:
-![Karlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlynG&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlynG&layout=compact)](https://github.com/KarlynG/github-readme-stats)
 
 ---
 
