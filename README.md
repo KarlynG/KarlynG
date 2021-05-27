@@ -24,12 +24,14 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png" />
 
+<br />
+<br />
+
 ---
 
-<br />
-<br />
-
 ### Progress
+
+---
 
 ### Latest Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network&theme=radical )](https://github.com/KarlynG/Social_network)
