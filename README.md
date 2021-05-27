@@ -32,7 +32,7 @@
 <br />
 
 ### Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network)](https://github.com/anuraghazra/Social_network)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network)](https://github.com/KarlynG/Social_network)
 
 ---
 
