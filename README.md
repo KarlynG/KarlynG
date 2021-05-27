@@ -33,3 +33,6 @@
 
 ---
 
+[website]: #
+[twitter]: https://www.facebook.com/karlyn.garciarojas
+[youtube]: https://www.youtube.com/channel/UCprvSCXsaixDUrPL6PNupaw
