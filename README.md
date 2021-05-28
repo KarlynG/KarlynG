@@ -8,10 +8,10 @@
 ### I'm currently studying, learning new technologies and working on different projects
 ---
 
-- 🌱 Currently working in something different
-- 👯 Trying to learn new technologies everyday
-- 🥅 2021 Goals: Get a work and learn from it
-- ⚡ Hobbies: Play Piano, Videogames and Read
+- ☑️ Currently working in something different
+- 📈 Trying to learn new technologies everyday
+- 🏠 2021 Goals: Get a work and learn from it
+- 🎸 Hobbies: Play Piano, Videogames and Read
 
 
 ### What I'm Learning / What have I learned:
