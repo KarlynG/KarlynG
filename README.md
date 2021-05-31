@@ -37,7 +37,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Bank_Project&theme=radical )](https://github.com/KarlynG/Bank_Project)
 
 ---
-
-[website]: #
-[twitter]: https://www.facebook.com/karlyn.garciarojas
-[youtube]: https://www.youtube.com/channel/UCprvSCXsaixDUrPL6PNupaw
