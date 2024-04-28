@@ -10,7 +10,7 @@
 
 - ☑️ Currently working in something different
 - 📈 Trying to learn new technologies everyday
-- 🏠 2021 Goals: Get a work and learn from it
+- 🏠 2024 Goals: Make meaningful contributations across different projects
 - 🎸 Hobbies: Play Piano, Videogames and Read
 
 
@@ -33,7 +33,5 @@
 ---
 
 ### Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Social_network&theme=radical )](https://github.com/KarlynG/Social_network)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=Bank_Project&theme=radical )](https://github.com/KarlynG/Bank_Project)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KarlynG&repo=CoinTracker&theme=radical )](https://github.com/KarlynG/CoinTracker)
 ---
