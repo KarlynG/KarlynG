@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Hello, my name is Karlyn and this is my profile - [Portfolio](https://karlyn-portfolio.netlify.app/)</h2>
+<h2 align="center">Hello, my name is Karlyn and this is my profile - <a href="https://karlyn-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a></h2>
 </p>
 
 <p align="center"> karlyn251@hotmail.com</p>
