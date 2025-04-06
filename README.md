@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Hello, my name is Karlyn and this is my profile - website in development 👋</h2>
+<h2 align="center">Hello, my name is Karlyn and this is my profile - [Portfolio](https://karlyn-portfolio.netlify.app/)</h2>
 </p>
 
 <p align="center"> karlyn251@hotmail.com</p>
@@ -10,7 +10,7 @@
 
 - ☑️ Currently working in something different
 - 📈 Trying to learn new technologies everyday
-- 🏠 2024 Goals: Make meaningful contributations across different projects
+- 🏠 2025 Goals: Make meaningful contributations across different projects
 - 🎸 Hobbies: Play Piano, Videogames and Read
 
 
