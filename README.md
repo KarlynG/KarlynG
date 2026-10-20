@@ -10,7 +10,7 @@
 
 - ☑️ Currently working in something different
 - 📈 Trying to learn new technologies everyday
-- 🏠 2025 Goals: Make meaningful contributations across different projects
+- 🏠 2026 Goals: Make meaningful contributations across different projects
 - 🎸 Hobbies: Play Piano, Videogames and Read
 
 
